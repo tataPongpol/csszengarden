@@ -149,9 +149,11 @@ div#zen-supporting {
         a {
             color: $primary-color;
             margin-right: 20px;
+            text-decoration: none;
         }
         a:hover {
             color: $secondary-color;
+            text-decoration: underline;
         }
     }
 }
