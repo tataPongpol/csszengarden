@@ -128,6 +128,7 @@ div#zen-supporting {
         }
         a {
             color: blue;
+            text-decoration: none;
         }
         a:hover, abbr:hover {
             text-decoration: underline;
@@ -189,9 +190,12 @@ aside.sidebar {
                 width: auto;
                 a {
                     padding: 0 5px 0 5px;
+                    color: cyan;
+                    text-decoration: none;
                 }
                 a:hover {
                     color: white;
+                    text-decoration: underline;
                 }
             }
         }

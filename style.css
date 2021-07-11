@@ -105,6 +105,7 @@ div#zen-supporting .requirements h3 {
 }
 div#zen-supporting .requirements a {
   color: blue;
+  text-decoration: none;
 }
 div#zen-supporting .requirements a:hover, div#zen-supporting .requirements abbr:hover {
   text-decoration: underline;
@@ -159,9 +160,12 @@ aside.sidebar .design-selection ul li, aside.sidebar .design-archives ul li, asi
 }
 aside.sidebar .design-selection ul li a, aside.sidebar .design-archives ul li a, aside.sidebar .zen-resources ul li a {
   padding: 0 5px 0 5px;
+  color: cyan;
+  text-decoration: none;
 }
 aside.sidebar .design-selection ul li a:hover, aside.sidebar .design-archives ul li a:hover, aside.sidebar .zen-resources ul li a:hover {
   color: white;
+  text-decoration: underline;
 }
 
 /*# sourceMappingURL=style.css.map */
